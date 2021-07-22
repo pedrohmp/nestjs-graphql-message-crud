@@ -37,7 +37,3 @@
 2. Run `npm or yarn install` at each project in order to install dependencies.<br />
 3. Run `yarn start:dev` for `back-end` and `yarn start` for `front-end` folder.<br />
 4. Access `localhost:3000` in your browser. GraphQL playground: `localhost:3333/graphql`.<br />
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
